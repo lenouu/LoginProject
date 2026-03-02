@@ -1,4 +1,4 @@
-# BiloaLoginProject
+#LoginProject
 
 A Java Web MVC Login Application with Servlets and JSP
 
